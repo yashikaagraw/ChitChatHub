@@ -10,10 +10,21 @@ function App() {
             Logout
             </Button>
 
-  <VStack h="full" w={"full"}>
+  <VStack h="full" w={"full"} overflowY="auto">
     
   <Message text={"Sample message"}/>
   <Message user="me" text={"Sample message"} />
+  <Message user="me" text={"Sample message"} />
+  <Message user="me" text={"Sample message"} />
+  <Message user="me" text={"Sample message"} />
+  <Message user="me" text={"Sample message"} />
+  <Message user="me" text={"Sample message"} />
+  <Message user="me" text={"Sample message"} />
+  <Message user="me" text={"Sample message"} />
+  <Message user="me" text={"Sample message"} />
+  <Message user="me" text={"Sample message"} />
+ <Message user="me" text={"Sample message"} />
+
   <Message text={"Sample message"} />
     
     
